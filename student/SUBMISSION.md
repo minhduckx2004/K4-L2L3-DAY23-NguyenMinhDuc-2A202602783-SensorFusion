@@ -57,5 +57,5 @@ Khong.
 - [x] Da commit `student/artifacts/metrics*.json` va `student/artifacts/grade_run*.log` (khong sua tay)
 - [x] Da dien du file nay, gom khai bao AI
 - [x] Khong commit du lieu Waymo, weights, `paths.yaml`, API key
-- [ ] `python tools/check_submission.py` bao san sang nop
+- [x] `python tools/check_submission.py` bao san sang nop
 - [ ] Da push va nop link repo + commit hash tren LMS
