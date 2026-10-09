@@ -2,7 +2,7 @@
 
 ## Thong tin hoc vien
 
-- H? t?n: Nguyen Minh Duc
+- Họ tên: Nguyen Minh Duc
 - MSSV: 2A202602783
 - Email: duc.nm224954@sis.hust.edu.vn
 - Link repo (fork): https://github.com/minhduckx2004/K4-L2L3-DAY23-NguyenMinhDuc-2A202602783-SensorFusion
@@ -45,7 +45,7 @@ Khong.
 
 ## Khai bao su dung AI (bat buoc)
 
-- C?ng c? ?? d?ng (ChatGPT, Copilot, Claude, ?): ChatGPT Codex.
+- Công cụ đã dùng (ChatGPT, Copilot, Claude, …): ChatGPT Codex.
 - Dung cho phan nao (ham, cau hoi, debug): Ho tro cai dat va debug Part E-H (`kalman.py`, `camera_fusion.py`, `association.py`, `track_management.py`), chay pytest, chay `fusion-run-lab`, va dien bao cao dua tren artifact.
 - Cach ban da kiem tra lai (pytest, chay Waymo, doi chieu cong thuc): Da chay `$env:PYTHONUTF8='1'; python -m pytest student/tests -q` voi `128 passed`; da chay `fusion-run-lab --config student/config/paths.yaml --fusion compare --seed 0`; da doi chieu `metrics.json` voi `grade_run.log` va kiem tra identity log.
 
